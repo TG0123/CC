@@ -1,4 +1,4 @@
-NAME=bot
+NAME=TelegramMT安全小助手
 BINDIR=bin
 GOBUILD=CGO_ENABLED=1 go build -ldflags '-w -s' -trimpath
 
