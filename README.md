@@ -1,25 +1,25 @@
-<h1 align="center">
+﻿<h1 align="center">
   <br>Telegram 关键词自动回复机器人<br>
 </h1>
 
 
 <p align="center">
-  <a href="https://goreportcard.com/report/github.com/zu1k/tg-keyword-reply-bot">
-    <img src="https://goreportcard.com/badge/github.com/zu1k/tg-keyword-reply-bot?style=flat-square">
+  <a href="https://goreportcard.com/report/github.com/TG0123/tg-keyword-reply-bot">
+    <img src="https://goreportcard.com/badge/github.com/TG0123/tg-keyword-reply-bot?style=flat-square">
   </a>
-  <a href="https://github.com/zu1k/tg-keyword-reply-bot/actions">
-    <img src="https://img.shields.io/github/workflow/status/zu1k/tg-keyword-reply-bot/Go?style=flat-square" alt="Github Actions">
+  <a href="https://github.com/TG0123/tg-keyword-reply-bot/actions">
+    <img src="https://img.shields.io/github/workflow/status/TG0123/tg-keyword-reply-bot/Go?style=flat-square" alt="Github Actions">
   </a>
-  <a href="https://github.com/zu1k/tg-keyword-reply-bot/releases">
-    <img src="https://img.shields.io/github/release/zu1k/tg-keyword-reply-bot/all.svg?style=flat-square">
+  <a href="https://github.com/TG0123/tg-keyword-reply-bot/releases">
+    <img src="https://img.shields.io/github/release/TG0123/tg-keyword-reply-bot/all.svg?style=flat-square">
   </a>
-  <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fzu1k%2Ftg-keyword-reply-bot?ref=badge_shield">
-      <img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzu1k%2Ftg-keyword-reply-bot.svg?type=shield" alt="FOSSA Status">
+  <a href="https://app.fossa.io/projects/git%2Bgithub.com%2FTG0123%2Ftg-keyword-reply-bot?ref=badge_shield">
+      <img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2FTG0123%2Ftg-keyword-reply-bot.svg?type=shield" alt="FOSSA Status">
   </a>
 </p>
 
 关键词机器人分开源和闭源两个版本，开源版本包含最基础的关键词回复功能，闭源版本增加了更多实用功能。                 
-本项目为关键词自动回复机器人的开源代码，在 [Release](https://github.com/zu1k/tg-keyword-reply-bot/releases) 中发布的为闭源版本可执行文件。
+本项目为关键词自动回复机器人的开源代码，在 [Release](https://github.com/TG0123/tg-keyword-reply-bot/releases) 中发布的为闭源版本可执行文件。
 
 ## 开源版本
 
@@ -44,13 +44,13 @@
 3. 使用 `./tgbot -t TOKEN` 运行机器人
 
 #### 使用Github Action编译的版本
-1. 访问 https://github.com/zu1k/tg-keyword-reply-bot/actions
+1. 访问 https://github.com/TG0123/tg-keyword-reply-bot/actions
 2. 下载Github Action编译的可执行文件，解压bin.zip
 3. 使用 `./tg-keyword-reply-bot -t TOKEN` 运行机器人
 
 
 ## 闭源版本
-闭源版本增加更多实用功能，可执行文件见 [Release](https://github.com/zu1k/tg-keyword-reply-bot/releases) 页面。
+闭源版本增加更多实用功能，可执行文件见 [Release](https://github.com/TG0123/tg-keyword-reply-bot/releases) 页面。
 
 ### 机器人命令列表
 ```
@@ -94,4 +94,4 @@ servicelist - 查看机器人功能列表
 - [小壹](https://t.me/fuqianghome) 100元
 
 ## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzu1k%2Ftg-keyword-reply-bot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzu1k%2Ftg-keyword-reply-bot?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTG0123%2Ftg-keyword-reply-bot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FTG0123%2Ftg-keyword-reply-bot?ref=badge_large)
